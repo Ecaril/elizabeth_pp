@@ -2,7 +2,7 @@
 package com.mycompany.proyecto01;
 
 import java.util.Scanner;
-
+// IMPORTAMOS 
 public class Proyecto01 {
 
     public static void main(String[] args) {
